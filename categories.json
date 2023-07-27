@@ -1,26 +1,26 @@
 [
   {
-    "category": "Cultura",
-    "description": "Preguntas relacionadas con arte, literatura, música y otras expresiones culturales."
+    "category": "Die Kultur",
+    "description": "Fragen zu Kunst, Literatur, Musik und anderen kulturellen Ausdrucksformen."
   },
   {
-    "category": "Deportes",
-    "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
+    "category": "Das Sport",
+    "description": "Fragen zu verschiedenen Sportarten und Sportveranstaltungen."
   },
   {
-    "category": "Arte",
-    "description": "Preguntas relacionadas con pintura, escultura, arquitectura y otras formas de expresión artística."
+    "category": "Die Kunst",
+    "description": "Fragen rund um Malerei, Bildhauerei, Architektur und andere künstlerische Ausdrucksformen."
   },
   {
-    "category": "Cine",
-    "description": "Preguntas relacionadas con películas, directores, actores y otros aspectos del cine."
+    "category": "Das Kino",
+    "description": "Fragen zu Filmen, Regisseuren, Schauspielern und anderen Aspekten des Kinos."
   },
   {
-    "category": "Historia",
-    "description": "Preguntas relacionadas con eventos históricos, personajes y períodos importantes."
+    "category": "Die Geschichte",
+    "description": "Fragen zu historischen Ereignissen, Charakteren und wichtigen Perioden."
   },
   {
-    "category": "Ciencia",
-    "description": "Preguntas relacionadas con diferentes ramas de la ciencia, descubrimientos y avances científicos."
+    "category": "Die Wissenschaft",
+    "description": "Fragen zu verschiedenen Wissenschaftszweigen, Entdeckungen und wissenschaftlichen Fortschritten."
   }
 ]
